@@ -24,7 +24,7 @@ Vous pouvez détecter un cluster Kubernetes entièrement géré ou autogéré. L
 
 .Étapes
 . Dans *Canvas*, cliquez sur *Ajouter un environnement de travail*.
-. Sélectionnez *Microsoft Azure* > *Cluster Kubernetes* et cliquez sur *Suivant*.
+. Sélectionnez *Microsoft Azure* > *Cluster Kubernetes* > *découvrir*.
 +
 image:screenshot-discover-kubernetes-aks.png["Copie d'écran de la page Add Working Environment montrant que Microsoft Azure et le cluster Kubernetes sont sélectionnés."]
 
@@ -54,7 +54,7 @@ Vous aurez besoin de certificats d'autorité de certification, de clé client et
 
 .Étapes
 . Dans *Canvas*, cliquez sur *Ajouter un environnement de travail*.
-. Sélectionnez *Microsoft Azure* > *Cluster Kubernetes* et cliquez sur *Suivant*.
+. Sélectionnez *Microsoft Azure* > *Cluster Kubernetes* > *découvrir*.
 . Sélectionnez *Import Cluster* et cliquez sur *Suivant*.
 . Téléchargez un fichier de configuration Kubernetes au format YAML.
 +

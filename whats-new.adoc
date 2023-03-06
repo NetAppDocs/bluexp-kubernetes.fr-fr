@@ -18,6 +18,14 @@ Découvrez les nouveautés de Kubernetes dans BlueXP (anciennement Cloud Manager
 
 
 
+== 05 mars 2023
+
+* Kubernetes dans BlueXP prend désormais en charge Astra Trident 23.01.
+* Des améliorations ont été apportées à l'interface utilisateur et des captures d'écran ont été mises à jour dans la documentation.
+
+
+
+
 == 06 novembre 2022
 
 Quand link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-k8s-manage-storage-classes.html#add-storage-classes["définition des classes de stockage"], vous pouvez maintenant activer l'économie de classe de stockage pour le stockage en mode bloc ou système de fichiers.
@@ -67,7 +75,7 @@ link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-k8s-manage
 
 == 6 juin 2022
 
-Cloud Manager Suise désormais Amazon FSX pour ONTAP en tant que système de stockage back-end.
+Cloud Manager prend désormais en charge Amazon FSX for ONTAP en tant que stockage back-end.
 
 
 

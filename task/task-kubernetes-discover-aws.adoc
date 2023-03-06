@@ -24,7 +24,7 @@ Vous pouvez détecter un cluster Kubernetes entièrement géré ou autogéré. L
 
 .Étapes
 . Dans *Canvas*, cliquez sur *Ajouter un environnement de travail*.
-. Sélectionnez *Amazon Web Services* > *Cluster Kubernetes* et cliquez sur *Suivant*.
+. Sélectionnez *Amazon Web Services* > *Kubernetes Cluster* > *Discover*.
 +
 image:screenshot-discover-kubernetes-aws-1.png["Copie d'écran de la page découvrir un cluster Kubernetes montrant une région AWS sélectionnée et un cluster Kubernetes."]
 
@@ -48,7 +48,7 @@ Vous pouvez importer un cluster Kubernetes autogéré à l'aide d'un fichier de 
 
 .Étapes
 . Dans *Canvas*, cliquez sur *Ajouter un environnement de travail*.
-. Sélectionnez *Amazon Web Services* > *Cluster Kubernetes* et cliquez sur *Suivant*.
+. Sélectionnez *Amazon Web Services* > *Kubernetes Cluster* > *Discover*.
 . Sélectionnez *Import Cluster* et cliquez sur *Suivant*.
 . Téléchargez un fichier de configuration Kubernetes au format YAML.
 +

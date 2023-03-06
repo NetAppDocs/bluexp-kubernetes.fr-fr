@@ -271,10 +271,7 @@
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Sur la page de connexion, indiquez l'adresse e-mail et le mot de passe que vous avez enregistrés sur le site de support NetApp pour réaliser le processus d'authentification.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Ces actions permettent à BlueXP d'utiliser votre compte NSS pour des opérations telles que le téléchargement de licences, la vérification de la mise à niveau logicielle et les inscriptions de support futures.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Notez ce qui suit :</block>
-  <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">Le compte doit être un compte de niveau client (et non un compte invité ou temporaire).</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Une icône de trois points horizontaux</block>
-  <block id="ff67299785d475e87002751aa6ab5eb8" category="list-text">Une fois la connexion établie, NetApp stockera le nom d'utilisateur NSS. Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
-  <block id="505da61efe6bebebbaf092da18f64613" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu. Cette option vous invite à vous reconnecter.</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">Inscrivez-vous auprès de NetApp</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">Le fait de vous inscrire au support NetApp dépend de la présence ou non d'un compte sur le site de support NetApp (NSS).</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Client existant avec un compte NSS</block>
@@ -304,7 +301,6 @@
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp prend en charge BlueXP de plusieurs façons. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenez de l'aide</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
-  <block id="07d41912a6ab6b97216f8cf89e93205c" category="section-title">Auto-assistance</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
   <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
@@ -316,14 +312,11 @@
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentation BlueXP que vous consultez actuellement.</block>
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">Courrier électronique :ng-cloudmanager-feedback@netapp.com[E-mail de commentaires]</block>
   <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">Nous accordons une grande importance à vos commentaires. Envoyez vos commentaires pour nous aider à améliorer BlueXP.</block>
-  <block id="0659d428df833a806e29e65e632d380a" category="section-title">Support NetApp</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler avec un spécialiste du support NetApp pour résoudre tous les problèmes après avoir activé le service de support.</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Découvrez comment vous inscrire à de l'aide</block>
   <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">Pour utiliser la fonction *Créer un cas*, vous devez d'abord effectuer un enregistrement unique de votre numéro de série d'ID de compte BlueXP (par exemple 960xxxx) avec NetApp. <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
   <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">Dans BlueXP, cliquez sur *aide &gt; support*.</block>
-  <block id="f5052c65917d7341726235d4d4941461" category="list-text">Choisissez l'une des options disponibles sous support technique :</block>
   <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">Cliquez sur *appelez-nous* si vous souhaitez parler avec quelqu'un au téléphone. Vous serez dirigé vers une page netapp.com qui répertorie les numéros de téléphone que vous pouvez appeler.</block>
-  <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">Cliquez sur *Créer un dossier* pour ouvrir un dossier auprès des spécialistes du support NetApp :</block>
   <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*Compte sur le site de support NetApp* : sélectionnez le compte NSS applicable associé à la personne qui ouvre le dossier de support. Cette personne sera le contact principal avec NetApp en plus de l'e-mail ci-dessous.</block>
   <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">Si vous ne voyez pas votre compte NSS, vous pouvez accéder à l'onglet *NSS Management* de la section support de BlueXP pour l'ajouter.</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service* : sélectionnez le service auquel le problème est associé. Par exemple, BlueXP lorsqu'il est spécifique à un problème de support technique avec des flux de travail ou des fonctionnalités au sein du service.</block>
@@ -363,7 +356,6 @@
   <block id="381ebbd947b85d55ba63ca069f4fd6e2" category="section-title">Découvrir un cluster</block>
   <block id="59e75b22101388124024ba384dec1f2d" category="paragraph">Vous pouvez détecter un cluster Kubernetes entièrement géré ou autogéré. Les clusters gérés doivent être découverts ; ils ne peuvent pas être importés.</block>
   <block id="b3077ecf2da7858bca9554a978d04da1" category="list-text">Dans *Canvas*, cliquez sur *Ajouter un environnement de travail*.</block>
-  <block id="858e77f2f26c5391299a73161193d161" category="list-text">Sélectionnez *Google Cloud Platform* &gt; *Kubernetes Cluster* et cliquez sur *Next*.</block>
   <block id="43fbe4a8201abe6b37503070f0c554c0" category="inline-image-macro">Copie d'écran de la page Add Working Environment montrant la sélection de Google Cloud Platform et de Kubernetes Cluster.</block>
   <block id="eb2d4b29a1f82dc5edd4825f3698ddd1" category="paragraph"><block ref="eb2d4b29a1f82dc5edd4825f3698ddd1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="85b561ece86eb3db6c1399eedd6f653e" category="list-text">Sélectionnez *Discover Cluster* et cliquez sur *Next*.</block>
@@ -426,14 +418,11 @@
   <block id="0dd89c6b1e51baa8486c2bb0e6b80b54" category="paragraph"><block ref="0dd89c6b1e51baa8486c2bb0e6b80b54" category="inline-image-macro-rx" type="image"></block></block>
   <block id="afd76a0ed7f0f829a9fddbc272ab6299" category="paragraph">La classe de stockage sélectionnée est supprimée.</block>
   <block id="eaf3ec2142c8e728c168bcce984b8f8a" category="summary">Importez un cluster OpenShift autogéré vers BlueXP, afin que vous puissiez commencer à sauvegarder les volumes persistants sur votre fournisseur de cloud.</block>
-  <block id="0af3a7ff999cca901839880f4821011a" category="doc">Ajoutez un cluster OpenShift à BlueXP</block>
   <block id="87eb1c50a9edf2828790a29892be6cd8" category="paragraph">Importez un cluster OpenShift autogéré vers BlueXP, afin que vous puissiez commencer à sauvegarder les volumes persistants sur votre fournisseur de cloud.</block>
-  <block id="775f8efc928538f555b4520733a0825d" category="paragraph">Avant d'ajouter un cluster OpenShift, il est nécessaire de disposer des éléments suivants :</block>
   <block id="d795d581b00d494d8c6250bb5e1fcf89" category="inline-link-macro">créez un fichier kubeconfig</block>
   <block id="9a1523c9f261730956627967961b03ba" category="list-text">Le fichier `kubeconfig-sa'que vous avez créé dans <block ref="853bbee8a9a9e7ed0c6dbe47e266bf3d" category="inline-link-macro-rx"></block>.</block>
   <block id="e7076b96b4cfb7668eac66eb624334ad" category="list-text">Les fichiers public Certificate Authority (par exemple, CA.crt), client Key (par exemple, tls.key) et client Certification (par exemple, tls.crt) pour le cluster.</block>
   <block id="17011a566ae4f46bae81e507282825fb" category="list-text">Dans *Canvas*, sélectionnez *Ajouter un environnement de travail*.</block>
-  <block id="4c031f22edba9db9f5529644e071eb8a" category="list-text">Sélectionnez votre fournisseur de cloud et sélectionnez *Kubernetes Cluster* puis *Next*.</block>
   <block id="02ebc3697d40233b9c554520eda51f25" category="list-text">Sélectionnez *Import Cluster* puis *Suivant*.</block>
   <block id="d68d1fb21874c919e4b91a231a5f7974" category="list-text">Téléchargez le<block ref="f6adb0f39622272857607018d7dae272" prefix=" " category="inline-code"></block> fichier créé dans <block ref="853bbee8a9a9e7ed0c6dbe47e266bf3d" category="inline-link-macro-rx"></block>. Sélectionnez le cluster Kubernetes et sélectionnez *Suivant*.</block>
   <block id="7132ddadc6f50c922dca046957d31211" category="paragraph"><block ref="7132ddadc6f50c922dca046957d31211" category="inline-image-macro-rx" type="image"></block></block>
@@ -454,10 +443,8 @@
   <block id="5ade6a4c54ab3688b0981e0a2dfa146a" category="summary">Ajoutez des clusters Amazon Elastic Kubernetes Service (Amazon EKS) à BlueXP, pour que vous puissiez commencer à sauvegarder les volumes persistants sur Amazon S3.</block>
   <block id="930f8261feefb91d4935530455673ddc" category="doc">Ajouter un cluster Amazon Kubernetes à BlueXP</block>
   <block id="23fdd1e89179a63dbfee620342891664" category="paragraph">Vous pouvez détecter ou importer des clusters Kubernetes vers BlueXP, et ainsi sauvegarder des volumes persistants sur Amazon S3.</block>
-  <block id="29508a151c67e3d0dd86c039a47344fd" category="list-text">Sélectionnez *Amazon Web Services* &gt; *Cluster Kubernetes* et cliquez sur *Suivant*.</block>
   <block id="d59c3e6f1bd8ff190720d2953c94c804" category="inline-image-macro">Copie d'écran de la page découvrir un cluster Kubernetes montrant une région AWS sélectionnée et un cluster Kubernetes.</block>
   <block id="f8c9a10cf098481ef28aa7f25a7229aa" category="paragraph"><block ref="f8c9a10cf098481ef28aa7f25a7229aa" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="ff2853c5c1f36238a0df55da68e45c91" category="list-text">Choisissez une région AWS, sélectionnez un cluster Kubernetes, puis cliquez sur *Suivant*.</block>
   <block id="319ac76ffc37cba773f6bfe88644a59e" category="paragraph"><block ref="319ac76ffc37cba773f6bfe88644a59e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="97ede2b65d07a20f2328447c2ac8ddae" category="paragraph"><block ref="97ede2b65d07a20f2328447c2ac8ddae" category="inline-image-macro-rx" type="image"></block></block>
   <block id="208bc8f4c94339fa8fca1463c194cc66" category="list-text">Sélectionnez le cluster Kubernetes et cliquez sur *Next* (Suivant).</block>
@@ -472,7 +459,6 @@
   <block id="f989c724687d581379877d51050d6c0e" category="summary">Ajoutez un cluster Kubernetes à BlueXP, pour que vous puissiez commencer à sauvegarder des volumes persistants sur Azure.</block>
   <block id="bbbfe19ca23f7ee5a4e823af05cbd046" category="doc">Ajout d'un cluster Azure Kubernetes à BlueXP</block>
   <block id="05ecd2f4a0ed37993412cf4d3e123e85" category="paragraph">Vous pouvez détecter ou importer des clusters Kubernetes vers BlueXP, pour que vous puissiez sauvegarder des volumes persistants sur Azure.</block>
-  <block id="74ee8afccfb46a392dec169f0956097b" category="list-text">Sélectionnez *Microsoft Azure* &gt; *Cluster Kubernetes* et cliquez sur *Suivant*.</block>
   <block id="16a071ff29c08b2edb676685f737e0a0" category="inline-image-macro">Copie d'écran de la page Add Working Environment montrant que Microsoft Azure et le cluster Kubernetes sont sélectionnés.</block>
   <block id="d15187582d177bb14569cfabe373d93d" category="paragraph"><block ref="d15187582d177bb14569cfabe373d93d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="860ae4b6d7d8ee1a9456e45642a4a03b" category="paragraph"><block ref="860ae4b6d7d8ee1a9456e45642a4a03b" category="inline-image-macro-rx" type="image"></block></block>
@@ -529,7 +515,6 @@
   <block id="412d8f1a8f03a7ee8f0983e7ecafe5e4" category="list-text">Vous pouvez à présent faire glisser votre cluster Kubernetes et le déposer dans l'environnement de travail AWS FSX pour ONTAP afin d'ajouter une classe de stockage directement à partir de la fenêtre Canvas.</block>
   <block id="2556925e0b340fdd647987c6af7fbee9" category="paragraph"><block ref="2556925e0b340fdd647987c6af7fbee9" category="inline-link-macro-rx"></block></block>
   <block id="62ee9336109ed1c4538423613b856682" category="section-title">6 juin 2022</block>
-  <block id="cd6d587cb36421715f3cc24a2c91aef6" category="paragraph">Cloud Manager Suise désormais Amazon FSX pour ONTAP en tant que système de stockage back-end.</block>
   <block id="19f4ed17c6ec00f67063b70e40bfc661" category="section-title">4 mai 2022</block>
   <block id="6401d12bcac1f01899ab494a0a6d8edb" category="section-title">Effectuez un glisser-déposer pour ajouter une classe de stockage</block>
   <block id="0f808082ee99c2acfbcb1661162034f6" category="paragraph">Vous pouvez désormais glisser votre cluster Kubernetes et le déposer dans l'environnement de travail Cloud Volumes ONTAP pour ajouter une classe de stockage directement depuis la fenêtre Canvas.</block>
@@ -590,7 +575,6 @@
   <block id="6e65026446a3f3b3ebb5471fa617ce29" category="sidebar">Ajoutez des clusters sur AWS</block>
   <block id="2d1f9ee77fc479dfb743551a0245845f" category="sidebar">Ajout de clusters sur Azure</block>
   <block id="ba9410f15dd19e0a92f5f4c2291636d6" category="sidebar">Ajoutez des clusters sur Google Cloud</block>
-  <block id="0ec3c7d00da8bde7e119875963ce517b" category="sidebar">Ajoutez des clusters sur OpenShift</block>
   <block id="20047fa95487365e55e0fe5ef4fc9154" category="sidebar">Obtenir de l'aide avec BlueXP</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Communauté sur les blogs</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
@@ -629,4 +613,20 @@
   <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service pour Google Cloud</block>
   <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
+  <block id="eea1e3b9ecdd5e32692761a0a78b9463" category="section-title">05 mars 2023</block>
+  <block id="ed9855757b31d516a4fa8f955edec2eb" category="list-text">Kubernetes dans BlueXP prend désormais en charge Astra Trident 23.01.</block>
+  <block id="3aea41413b60d0894823e739f01efcbb" category="list-text">Des améliorations ont été apportées à l'interface utilisateur et des captures d'écran ont été mises à jour dans la documentation.</block>
+  <block id="62825001719fa641c3a8235d2a324b31" category="paragraph">Cloud Manager prend désormais en charge Amazon FSX for ONTAP en tant que stockage back-end.</block>
+  <block id="020cdcf75af448034455fde9f5359770" category="doc">Importez un cluster OpenShift vers BlueXP</block>
+  <block id="d507a2c476794012c5403c02b1e10599" category="paragraph">Avant d'importer un cluster OpenShift, vous avez besoin des éléments suivants :</block>
+  <block id="da391b0f5d5be6622fec4f741f6e4b96" category="list-text">Sélectionnez votre fournisseur de cloud et sélectionnez *Kubernetes Cluster* &gt; *Discover*.</block>
+  <block id="0777348438f5b5e80b80f0b45f60b666" category="list-text">Sélectionnez *Google Cloud Platform* &gt; *Kubernetes Cluster* &gt; *Discover*.</block>
+  <block id="824ab8e63b4d52c9afc7f4925a7654af" category="list-text">Sélectionnez *Amazon Web Services* &gt; *Kubernetes Cluster* &gt; *Discover*.</block>
+  <block id="84a9f84fdd14e27de2581a0cef7980f8" category="list-text">Choisissez une région AWS, sélectionnez un cluster Kubernetes, puis cliquez sur *Suivant*.</block>
+  <block id="8382e8880f439b654a53cf3d0d0c1bfc" category="list-text">Sélectionnez *Microsoft Azure* &gt; *Cluster Kubernetes* &gt; *découvrir*.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilisation d'options de support en libre-service</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Créez un dossier de demande de support auprès du support NetApp</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Sur la page *Ressources*, choisissez l'une des options disponibles sous support technique :</block>
+  <block id="5be2e1dfe4bf215289731df45ec8157b" category="list-text">Cliquez sur *Créer un dossier* pour ouvrir un dossier auprès d'un spécialiste du support NetApp :</block>
+  <block id="14d43bcefa1304e65774a093c0b798c2" category="sidebar">Importez des clusters OpenShift</block>
 </blocks>
