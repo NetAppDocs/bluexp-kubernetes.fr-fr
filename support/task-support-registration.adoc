@@ -87,21 +87,21 @@ Ces actions permettent à BlueXP d'utiliser votre compte NSS pour des opération
 Notez ce qui suit :
 
 +
-** ec084bb25ed5b934c09b361069c246b2
-** 27387009488fe78dcc7cb7e3e432792f
+** Le compte NSS doit être un compte de niveau client (pas un compte invité ou temporaire). Vous pouvez avoir plusieurs comptes NSS de niveau client.
+** Il ne peut y avoir qu'un seul compte NSS si ce compte est un compte de niveau partenaire. Si vous essayez d'ajouter des comptes NSS de niveau client et qu'un compte de niveau partenaire existe, le message d'erreur suivant s'affiche :
 +
-d926847e4634e19a1aa7358becc0fa27
+"Le type de client NSS n'est pas autorisé pour ce compte car il existe déjà des utilisateurs NSS de type différent."
 
 +
-a04a3a5322782e8c18d0d64be7e1ccbc
+Il en va de même si vous possédez des comptes NSS client préexistants et que vous essayez d'ajouter un compte de niveau partenaire.
 
-** 1afe8a81cfddc9fa9559e272bb6b9496
+** Une fois la connexion établie, NetApp stockera le nom d'utilisateur NSS.
 +
-452cd4df7b0d5eb1156519a2f3b0206b
+Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/icon-nss-menu.png["Une icône de trois points horizontaux"] menu.
 
-** fd02e84624a2fdfd58787131aa2820b5
+** Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/icon-nss-menu.png["Une icône de trois points horizontaux"] menu.
 +
-b14d512a3c64fb5df16f6721b0603c63
+Cette option vous invite à vous reconnecter. Notez que le jeton de ces comptes expire après 90 jours. Une notification sera publiée pour vous en informer.
 
 
 
