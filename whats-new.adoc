@@ -54,19 +54,13 @@ Vous pouvez désormais importer des clusters OpenShift autogérés dans Cloud Ma
 
 * Utilisation du nouveau `- watch` Verbe dans la classe de stockage, la sauvegarde et la restauration des configurations YAML, Cloud Manager peut désormais surveiller les clusters Kubernetes pour les modifications apportées au back-end du cluster et activer automatiquement la sauvegarde des nouveaux volumes persistants si la sauvegarde automatique a été configurée sur le cluster.
 +
-ifdef::aws[]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aws.html["Conditions requises pour les clusters Kubernetes dans AWS"]
 
++
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aks.html["Conditions requises pour les clusters Kubernetes dans Azure"]
 
-
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aws.html["Conditions requises pour les clusters Kubernetes dans AWS"]endif::aws[]
-
-+ ifdef::azure[]
-
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aks.html["Conditions requises pour les clusters Kubernetes dans Azure"]endif::azure[]
-
-+ ifdef::gcp[]
-
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-gke.html["Conditions requises pour les clusters Kubernetes dans Google Cloud"]end if::gcp[]
++
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-gke.html["Conditions requises pour les clusters Kubernetes dans Google Cloud"]
 
 * Quand link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-k8s-manage-storage-classes.html#add-storage-classes["définition des classes de stockage"], vous pouvez maintenant spécifier un type de système de fichiers (fstype) pour le stockage en mode bloc.
 

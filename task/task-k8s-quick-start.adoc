@@ -20,39 +20,27 @@ summary: Avec BlueXP, vous pouvez commencer à gérer des clusters Kubernetes en
 [role="quick-margin-para"]
 Assurez-vous que votre environnement respecte les conditions préalables requises pour votre type de cluster.
 
-ifdef::aws[]
+[role="quick-margin-para"]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aws.html["Conditions requises pour les clusters Kubernetes dans AWS"]
 
 [role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aws.html["Conditions requises pour les clusters Kubernetes dans AWS"]endif::aws[]
-
-ifdef::azure[]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aks.html["Conditions requises pour les clusters Kubernetes dans Azure"]
 
 [role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-aks.html["Conditions requises pour les clusters Kubernetes dans Azure"]endif::azure[]
-
-ifdef::gcp[]
-
-[role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-gke.html["Conditions requises pour les clusters Kubernetes dans Google Cloud"]end if::gcp[]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-gke.html["Conditions requises pour les clusters Kubernetes dans Google Cloud"]
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Deux"] Ajoutez vos clusters Kubernetes à BlueXP
 [role="quick-margin-para"]
 Vous pouvez ajouter des clusters Kubernetes et les connecter à un environnement de travail à l'aide de BlueXP.
 
-ifdef::aws[]
+[role="quick-margin-para"]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-aws.html["Ajoutez un cluster Amazon Kubernetes"]
 
 [role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-aws.html["Ajoutez un cluster Amazon Kubernetes"]endif::aws[]
-
-ifdef::azure[]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-azure.html["Ajoutez un cluster Azure Kubernetes"]
 
 [role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-azure.html["Ajoutez un cluster Azure Kubernetes"]endif::azure[]
-
-ifdef::gcp[]
-
-[role="quick-margin-para"]
-link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-gke.html["Ajoutez un cluster Google Cloud Kubernetes"]end if::gcp[]
+link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/task/task-kubernetes-discover-gke.html["Ajoutez un cluster Google Cloud Kubernetes"]
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Quatre"] Commencez le provisionnement des volumes persistants
 [role="quick-margin-para"]
