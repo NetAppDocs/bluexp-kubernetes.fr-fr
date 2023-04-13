@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar 
-permalink: /requirements/kubernetes-reqs-gke.html 
+permalink: requirements/kubernetes-reqs-gke.html 
 keywords: kubernetes, k8s, discover kubernetes cluster, discover k8s, google, google cloud, gke, kubernetes support 
 summary: 'Vous pouvez ajouter et gérer des clusters Google Kubernetes Engine gérés (GKE) et des clusters Kubernetes autogérés dans Google à l"aide de BlueXP. Avant de pouvoir ajouter les clusters à BlueXP, assurez-vous que les conditions suivantes sont remplies.' 
 ---

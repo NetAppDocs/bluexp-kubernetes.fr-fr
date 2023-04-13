@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar 
-permalink: /task/task-k8s-manage-remove-cluster.html 
+permalink: task/task-k8s-manage-remove-cluster.html 
 keywords: kubernetes, k8s, remove cluster 
 summary: 'Une fois que vous avez ajouté un cluster Managed-Kubernetes dans Canvas, vous pouvez utiliser BlueXP pour supprimer des clusters de l"espace de travail.' 
 ---

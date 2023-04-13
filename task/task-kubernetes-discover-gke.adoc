@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar 
-permalink: /task/task-kubernetes-discover-gke.html 
+permalink: task/task-kubernetes-discover-gke.html 
 keywords: kubernetes, k8s, discover kubernetes cluster, discover k8s, import kubernetes cluster, google, google cloud, gke, kubernetes support 
 summary: Vous pouvez découvrir ou importer des clusters Kubernetes vers BlueXP, pour sauvegarder des volumes persistants dans Google Cloud. 
 ---

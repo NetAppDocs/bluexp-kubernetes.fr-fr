@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar 
-permalink: /requirements/kubernetes-reqs-aks.html 
+permalink: requirements/kubernetes-reqs-aks.html 
 keywords: kubernetes, k8s, discover kubernetes cluster, discover k8s, azure, aks, kubernetes support 
 summary: 'Vous pouvez ajouter et gérer des clusters Azure Kubernetes gérés (AKS) et des clusters Kubernetes autogérés dans Azure à l"aide de BlueXP. Avant de pouvoir ajouter les clusters à BlueXP, assurez-vous que les conditions suivantes sont remplies.' 
 ---
