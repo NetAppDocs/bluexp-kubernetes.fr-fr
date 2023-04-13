@@ -298,7 +298,6 @@
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Recherchez dans la base de connaissances BlueXP des articles utiles pour résoudre les problèmes.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communautés</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -468,16 +467,10 @@
   <block id="79e470c48afbbe1fa9e042e6403d2459" category="doc">Commencez avec les clusters Kubernetes</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="section-title">Démarrage rapide</block>
   <block id="2fadcb7c66778a6e996282a9d85d69d3" category="paragraph">Assurez-vous que votre environnement respecte les conditions préalables requises pour votre type de cluster.</block>
-  <block id="36e8382aa83e74f8ba70303f62ce8d15" category="paragraph"><block ref="36e8382aa83e74f8ba70303f62ce8d15" category="inline-link-macro-rx"></block></block>
-  <block id="8a7acc1f3e4ade2ee389a4e59f39bf28" category="paragraph"><block ref="8a7acc1f3e4ade2ee389a4e59f39bf28" category="inline-link-macro-rx"></block></block>
-  <block id="2bdb06b2a7060e3efbb60c6fdf551284" category="paragraph"><block ref="2bdb06b2a7060e3efbb60c6fdf551284" category="inline-link-macro-rx"></block></block>
   <block id="5ba4facc62a7fe1280b842092b4e64e3" category="paragraph">Vous pouvez ajouter des clusters Kubernetes et les connecter à un environnement de travail à l'aide de BlueXP.</block>
   <block id="29eef78ab52bc074b0642baafaa44a77" category="inline-link-macro">Ajoutez un cluster Amazon Kubernetes</block>
-  <block id="187496d0d891ffe76a43f6ffdd995505" category="paragraph"><block ref="187496d0d891ffe76a43f6ffdd995505" category="inline-link-macro-rx"></block></block>
   <block id="8cae45546ea6e7035e9b798f709fc911" category="inline-link-macro">Ajoutez un cluster Azure Kubernetes</block>
-  <block id="e72a8a52b20d0b466a3152c8c60b4f2b" category="paragraph"><block ref="e72a8a52b20d0b466a3152c8c60b4f2b" category="inline-link-macro-rx"></block></block>
   <block id="2872769900c1ca485d1628b4eefde308" category="inline-link-macro">Ajoutez un cluster Google Cloud Kubernetes</block>
-  <block id="09e2861e1b9bab7606bd9fd36b62d621" category="paragraph"><block ref="09e2861e1b9bab7606bd9fd36b62d621" category="inline-link-macro-rx"></block></block>
   <block id="6fc0464220dc386a37007468b2c94086" category="paragraph">Demandez et gérez les volumes persistants à l'aide d'interfaces et de constructions Kubernetes natives. BlueXP crée des classes de stockage NFS et iSCSI que vous pouvez utiliser pour le provisionnement de volumes persistants.</block>
   <block id="fc0f20615e6c250961a9e88b2929444b" category="inline-link-macro">En savoir plus sur le provisionnement de votre premier volume avec Astra Trident</block>
   <block id="28eb70a7fd7de45b7957d03e5f3d4554" category="paragraph"><block ref="439da74acd283499ba63209cd4e1e52e" category="inline-link-macro-rx"></block>.</block>
@@ -697,4 +690,23 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Cette option vous invite à vous reconnecter. Notez que le jeton de ces comptes expire après 90 jours. Une notification sera publiée pour vous en informer.</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="50f3cd9a28593ebb0a78fadd2996dd78" category="paragraph"><block ref="36e8382aa83e74f8ba70303f62ce8d15" category="inline-link-macro-rx"></block>endif::aws[]</block>
+  <block id="f2305738e88e9923711d89c91602f6af" category="paragraph"><block ref="8a7acc1f3e4ade2ee389a4e59f39bf28" category="inline-link-macro-rx"></block>endif::azure[]</block>
+  <block id="dab62e5c8adbd44952489834e359aeb6" category="paragraph"><block ref="2bdb06b2a7060e3efbb60c6fdf551284" category="inline-link-macro-rx"></block>end if::gcp[]</block>
+  <block id="8342f20dae1ba6e58c6df7a27fff1122" category="paragraph"><block ref="187496d0d891ffe76a43f6ffdd995505" category="inline-link-macro-rx"></block>endif::aws[]</block>
+  <block id="c3ea84efe2874d9e39d473b8b4fa52a4" category="paragraph"><block ref="e72a8a52b20d0b466a3152c8c60b4f2b" category="inline-link-macro-rx"></block>endif::azure[]</block>
+  <block id="e0f39d4e9d131de53961367c74d621b0" category="paragraph"><block ref="09e2861e1b9bab7606bd9fd36b62d621" category="inline-link-macro-rx"></block>end if::gcp[]</block>
+  <block id="e7775142c06c5ba70bd067c931180b95" category="paragraph">+ ifdef::azure[]</block>
+  <block id="eb414fa72329229923adc42cd3774465" category="paragraph">+ ifdef::gcp[]</block>
+  <block id="e29d7c0b36af68edd13ebac84f15b44b" category="sidebar">Ou du fournisseur cloud</block>
+  <block id="46aef2e5080a5347df1ce7546e1be1df" category="sidebar">Tous les fournisseurs cloud</block>
+  <block id="6beccc67ff905f7da0b29dece26b0485" category="sidebar">Amazon Web Services</block>
+  <block id="4847e034bb0a55fcbc8a3380d6a3ab80" category="sidebar">AWS</block>
+  <block id="56ef2682280ac110060b881925a87b80" category="sidebar">Google Cloud</block>
+  <block id="1668ca1bd914c1d847f23b491319ac91" category="sidebar">Microsoft Azure</block>
+  <block id="3a580f142203677f1f0bc30898f63f53" category="sidebar">Azure</block>
+  <block id="5a81378cdc7edd9ea960cf02d6ca78d2" category="paragraph">ifdef::aws[]</block>
+  <block id="b010c7530103ef9947582474d65ff9a3" category="paragraph">ifdef::azure[]</block>
+  <block id="6e1e9c83b80f4d22d34cbdf60a71383b" category="paragraph">ifdef::gcp[]</block>
 </blocks>
