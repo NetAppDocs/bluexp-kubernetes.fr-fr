@@ -16,7 +16,7 @@ summary: Vous pouvez utiliser BlueXP pour installer Astra Trident, configurer de
 [].lead] vous pouvez utiliser BlueXP pour installer ou mettre à niveau Astra Trident, configurer les classes de stockage, supprimer des clusters et activer les services de données.
 
 
-NOTE: Astra Trident déployé avec `tridentctl` n'est pas pris en charge. Si vous avez déployé Astra Trident avec `tridentctl`, Vous ne pouvez pas utiliser BlueXP pour gérer vos clusters Kubernetes. Vous devez  et réinstaller link:https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy-operator.html["Utilisation de l'opérateur Trident"^] ou link:./tasks/task-k8s-manage-trident.html["Utilisation de BlueXP"].
+NOTE: Astra Trident déployé avec `tridentctl` n'est pas pris en charge. Si vous avez déployé Astra Trident avec `tridentctl`, Vous ne pouvez pas utiliser BlueXP pour gérer vos clusters Kubernetes. Vous devez  et réinstaller link:https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy-operator.html["Utilisation de l'opérateur Trident"^] ou link:./task/task-k8s-manage-trident.html["Utilisation de BlueXP"].
 
 
 
