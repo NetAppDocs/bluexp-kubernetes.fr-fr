@@ -16,8 +16,8 @@ summary: 'Lorsque vous ajoutez un cluster Kubernetes géré à Canvas, vous pouv
 [role="lead"]
 Lorsque vous ajoutez un cluster Kubernetes géré à Canvas, vous pouvez utiliser les services de données cloud de NetApp pour bénéficier d'une gestion avancée des données.
 
-Vous pouvez utiliser Cloud Backup pour sauvegarder les volumes persistants dans le stockage objet.
+Vous pouvez utiliser la sauvegarde et la restauration BlueXP pour sauvegarder des volumes persistants sur le stockage objet.
 
-link:https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-kubernetes-backup-to-cloud.html["Découvrez comment protéger les données de clusters Kubernetes à l'aide de Cloud Backup"^].
+link:https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-kubernetes-backup-to-cloud.html["Découvrez comment protéger les données de vos clusters Kubernetes à l'aide de la sauvegarde et de la restauration BlueXP"^].
 
-image:screenshot-k8s-backup.png["Copie d'écran de la page Kubernetes du Cloud Backup Service présentant cinq tâches de sauvegarde pour un cluster Kubernetes."]
+image:screenshot-k8s-backup.png["Copie d'écran de la page Kubernetes de la sauvegarde et de la restauration BlueXP montrant cinq tâches de sauvegarde pour un cluster Kubernetes."]

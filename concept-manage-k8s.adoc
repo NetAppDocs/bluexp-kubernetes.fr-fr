@@ -33,5 +33,5 @@ image:screenshot-k8s-resource-page.png["Copie d'écran de la page de ressources 
 * Ajouter et supprimer des classes de stockage. Voir link:./task/task-k8s-manage-storage-classes.html["Gérer les classes de stockage"].
 * Afficher les volumes persistants Voir link:./task/task-k8s-manage-persistent-volumes.html["Afficher les volumes persistants"].
 * Supprimez les clusters Kubernetes de l'espace de travail. Voir link:./task/task-k8s-manage-remove-cluster.html["Supprimer les clusters"].
-* Activer ou afficher Cloud Backup. Voir link:./task/task-kubernetes-enable-services.html["Avec les services de données cloud NetApp"].
+* Activez ou affichez la sauvegarde et la restauration BlueXP. Voir link:./task/task-kubernetes-enable-services.html["Avec les services de données cloud NetApp"].
 

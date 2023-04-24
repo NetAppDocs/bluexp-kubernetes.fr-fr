@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: concept-kubernetes.html 
-keywords: kubernetes, k8s, back up kubernetes, back up k8s, discover kubernetes cluster, discover k8s, amazon eks, eks, azure, aks, back up persistent volumes, persistent volumes, kubernetes support, cloud manager 
+keywords: kubernetes, k8s, back up kubernetes, back up k8s, discover kubernetes cluster, discover k8s, amazon eks, eks, azure, aks, back up persistent volumes, persistent volumes, kubernetes support, cloud manager, bluexp 
 summary: 'Astra Trident est un projet open source entièrement pris en charge et géré par NetApp. Astra Trident s"intègre de manière native avec Kubernetes et son framework de volumes persistants pour provisionner et gérer les volumes de manière transparente à partir des systèmes qui exécutent toutes les combinaisons de plateformes de stockage NetApp.' 
 ---
 = Gestion des données Kubernetes dans BlueXP
@@ -20,15 +20,7 @@ Astra Trident est un projet open source entièrement pris en charge et géré pa
 
 == Caractéristiques
 
-À l'aide d'un link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["BlueXP"^] (Anciennement Cloud Manager) et une version compatible d'Astra Trident déployée à l'aide de l'opérateur Trident, vous pouvez :
-
-* Ajoutez et gérez des clusters Kubernetes
-* link:./task/task-k8s-manage-trident.html["Installez, mettez à niveau ou désinstallez Astra Trident"]
-* link:./task/task-k8s-manage-storage-classes.html["Ajouter et supprimer des classes de stockage"]
-* link:./task/task-k8s-manage-persistent-volumes.html["Afficher les volumes persistants"]
-* link:./task/task-k8s-manage-remove-cluster.html["Supprimez les clusters Kubernetes"] depuis l'espace de travail
-* link:./task/task-kubernetes-enable-services.html["Activez ou affichez Cloud Backup"]
-
+À l'aide d'un link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["BlueXP"^] (Cloud Manager) et une version compatible d'Astra Trident déployée à l'aide de l'opérateur Trident, vous pouvez : * Ajouter et gérer des clusters Kubernetes * link:./task/task-k8s-manage-trident.html["Installez, mettez à niveau ou désinstallez Astra Trident"]* link:./task/task-k8s-manage-storage-classes.html["Ajouter et supprimer des classes de stockage"]* link:./task/task-k8s-manage-persistent-volumes.html["Afficher les volumes persistants"]* link:./task/task-k8s-manage-remove-cluster.html["Supprimez les clusters Kubernetes"] depuis l'espace de travail * link:./task/task-kubernetes-enable-services.html["Activez ou affichez la sauvegarde et la restauration BlueXP"]
 
 
 
