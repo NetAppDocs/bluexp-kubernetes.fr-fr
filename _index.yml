@@ -34,7 +34,6 @@ indexpage:
       flavor: azure
     - title: Ajoutez des clusters sur Google Cloud
       url: "/task/task-kubernetes-discover-gke.html"
-      flavor: gcp
     - title: Importez des clusters OpenShift
       url: "/task/task-kubernetes-discover-openshift.html"
   - title: Gérez les clusters Kubernetes

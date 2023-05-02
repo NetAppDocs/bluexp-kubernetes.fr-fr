@@ -238,26 +238,6 @@ subjects:
       namespace: default
 ----
 --
-.Installation de Trident
---
-Accordez l'autorisation d'administration complète et permettez à BlueXP d'installer Astra Trident.
-
-[source, cli]
-----
-apiVersion: rbac.authorization.k8s.io/v1
-kind: ClusterRoleBinding
-metadata:
-  name: cloudmanager-access-clusterrole
-roleRef:
-  apiGroup: rbac.authorization.k8s.io
-  kind: ClusterRole
-  name: cluster-admin
-subjects:
-- kind: ServiceAccount
-  name: oc-service-account
-  namespace: default
-----
---
 ====
 .. Appliquer la liaison de rôle de cluster :
 +
