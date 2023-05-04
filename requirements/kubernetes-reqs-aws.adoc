@@ -119,7 +119,7 @@ NOTE: Pour installer Astra Trident, BlueXP installe le système back-end Trident
 .Étapes
 . Créer un rôle de cluster et une liaison de rôle.
 +
-.. Créez un fichier YAML qui inclut le texte suivant en fonction de vos exigences d'autorisation.
+.. Vous pouvez personnaliser l'autorisation en fonction de vos besoins.
 +
 [role="tabbed-block"]
 ====
@@ -264,6 +264,15 @@ roleRef:
     kind: ClusterRole
     name: cloudmanager-access-clusterrole
     apiGroup: rbac.authorization.k8s.io
+----
+--
+.Installation de Trident
+--
+Utilisez la ligne de commande pour fournir une autorisation complète et permettre à BlueXP d'installer Astra Trident.
+
+[source, cli]
+----
+eksctl create iamidentitymapping --cluster < > --region < > --arn < > --group "system:masters" --username system:node:{{EC2PrivateDNSName}}
 ----
 --
 ====
