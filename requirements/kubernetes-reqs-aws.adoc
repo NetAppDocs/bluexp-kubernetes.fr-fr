@@ -42,9 +42,9 @@ BlueXP Connector est nécessaire dans AWS pour détecter et gérer les clusters 
 
 Suivez les étapes de l'un des liens ci-dessous.
 
-* link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-creating-connectors-aws.html["Créez un connecteur depuis BlueXP"^] (recommandé)
-* link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-launching-aws-mktp.html["Créez un connecteur à partir d'AWS Marketplace"^]
-* link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-installing-linux.html["Installez le connecteur sur un hôte Linux existant dans AWS"^]
+* link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-creating-connectors-aws.html["Créez un connecteur depuis BlueXP"^] (recommandé)
+* link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-launching-aws-mktp.html["Créez un connecteur à partir d'AWS Marketplace"^]
+* link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-installing-linux.html["Installez le connecteur sur un hôte Linux existant dans AWS"^]
 
 
 
@@ -72,7 +72,7 @@ image:screenshot-aws-edit-policy.png["Copie d'écran de la console AWS affichant
 
 
 +
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-permissions-aws.html["Afficher le format JSON complet de la règle"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/reference-permissions-aws.html["Afficher le format JSON complet de la règle"^]
 
 . Cliquez sur *Review Policy*, puis sur *Save Changes*.
 

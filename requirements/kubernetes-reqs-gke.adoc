@@ -42,8 +42,8 @@ BlueXP Connector dans Google est nécessaire pour découvrir et gérer les clust
 
 Suivez les étapes de l'un des liens ci-dessous.
 
-* link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-creating-connectors-gcp.html["Créez un connecteur depuis BlueXP"^] (recommandé)
-* link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-installing-linux.html["Installez le connecteur sur un hôte Linux existant"^]
+* link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-creating-connectors-gcp.html["Créez un connecteur depuis BlueXP"^] (recommandé)
+* link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-installing-linux.html["Installez le connecteur sur un hôte Linux existant"^]
 
 
 

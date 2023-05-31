@@ -25,7 +25,7 @@ Vous pouvez importer un cluster Kubernetes autogéré à l'aide d'un fichier de 
 .Avant de commencer
 Avant d'importer un cluster OpenShift, vous avez besoin des éléments suivants :
 
-* Le fichier `kubeconfig-sa'que vous avez créé dans link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-openshift.html#create-a-kubeconfig-file["créez un fichier kubeconfig"].
+* Le fichier `kubeconfig-sa'que vous avez créé dans link:https://docs.netapp.com/us-en/bluexp-kubernetes/requirements/kubernetes-reqs-openshift.html#create-a-kubeconfig-file["créez un fichier kubeconfig"].
 * Les fichiers public Certificate Authority (par exemple, CA.crt), client Key (par exemple, tls.key) et client Certification (par exemple, tls.crt) pour le cluster.
 
 
@@ -33,7 +33,7 @@ Avant d'importer un cluster OpenShift, vous avez besoin des éléments suivants 
 . Dans *Canvas*, sélectionnez *Ajouter un environnement de travail*.
 . Sélectionnez votre fournisseur de cloud et sélectionnez *Kubernetes Cluster* > *Discover*.
 . Sélectionnez *Import Cluster* puis *Suivant*.
-. Téléchargez le `kubeconfig-sa` fichier créé dans link:https://docs.netapp.com/us-en/cloud-manager-kubernetes/requirements/kubernetes-reqs-openshift.html#create-a-kubeconfig-file["créez un fichier kubeconfig"]. Sélectionnez le cluster Kubernetes et sélectionnez *Suivant*.
+. Téléchargez le `kubeconfig-sa` fichier créé dans link:https://docs.netapp.com/us-en/bluexp-kubernetes/requirements/kubernetes-reqs-openshift.html#create-a-kubeconfig-file["créez un fichier kubeconfig"]. Sélectionnez le cluster Kubernetes et sélectionnez *Suivant*.
 +
 image:screenshot-k8s-aks-import-1.png["Capture d'écran de la page Import cluster Kubernetes avec le fichier de configuration et le tableau Available clusters."]
 
