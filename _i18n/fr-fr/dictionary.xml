@@ -481,7 +481,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="33729732e4c013e81e5576920fedbc76" category="sidebar">Activez les services de données cloud NetApp</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toute la documentation BlueXP</block>
   <block id="9b9477e579c3b44dd623d5a6e1ea8d78" category="inline-link-macro">BlueXP</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Si vous avez un compte partenaire ou revendeur, vous pouvez ajouter un ou plusieurs comptes NSS, mais ils ne peuvent pas être ajoutés en même temps que les comptes au niveau du client.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Recherchez le numéro de série de l'ID de compte sur la page d'inscription au support.</block>
@@ -703,4 +702,6 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Bénéficiez du support pour les services de fichiers d'un fournisseur cloud</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Pour bénéficier du support technique spécifique à BlueXP et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
+  <block id="531ad5e6be7e9668f912aa6e655e5902" category="paragraph">Remplacer l'<block ref="860b2d1ba3877711b8cf22d81c10ee15" prefix=" " category="inline-code"></block> variable avec votre nom d'utilisateur et<block ref="28fbe2acd4be605635c165dd4f851ab7" prefix=" " category="inline-code"></block> Avec l'identifiant unique du compte de service autorisé.</block>
+  <block id="f7686ca7ddbb48ed256c1ad60bb0a874" category="paragraph">Remplacer l'<block ref="860b2d1ba3877711b8cf22d81c10ee15" prefix=" " category="inline-code"></block> variable avec votre nom d'utilisateur et<block ref="28fbe2acd4be605635c165dd4f851ab7" prefix=" " category="inline-code"></block> Avec l'ID objet pour l'identité gérée attribuée par le système ou le nom d'utilisateur de tout utilisateur autorisé, comme décrit ci-dessus.</block>
 </blocks>

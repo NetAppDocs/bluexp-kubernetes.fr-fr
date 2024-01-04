@@ -140,7 +140,7 @@ Créer un rôle de cluster et une liaison de rôle.
 --
 Ajoutez une autorisation de base pour activer la sauvegarde et la restauration des clusters Kubernetes.
 
-Remplacer l' ``subjects: kind:`` variable avec votre nom d'utilisateur et ``subjects: user:`` Avec l'ID objet pour l'identité gérée attribuée par le système ou le nom d'utilisateur de tout utilisateur autorisé, comme décrit ci-dessus.
+Remplacer l' `subjects: kind:` variable avec votre nom d'utilisateur et `subjects: name:` Avec l'ID objet pour l'identité gérée attribuée par le système ou le nom d'utilisateur de tout utilisateur autorisé, comme décrit ci-dessus.
 
 [source, yaml]
 ----
